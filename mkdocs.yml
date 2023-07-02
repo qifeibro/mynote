@@ -1,6 +1,4 @@
 site_name: Note
-site_wide_excludes:
-- footer
 theme:
   name: material
   features:
@@ -31,13 +29,14 @@ theme:
 plugins:
 
 extra:
+  generator: false # The footer does not display a Made with Material for MkDocs notice
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/james-willett
+      link: https://github.com/
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/TheJamesWillett
+      link: https://twitter.com/
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/willettjames/
+      link: https://www.linkedin.com/
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -59,4 +58,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2023 <a href="https://github.com/james-willett"  target="_blank" rel="noopener">James Willett</a>
+  &copy; 2023 <a href="https://github.com/"  target="_blank" rel="noopener">bilibili</a>
