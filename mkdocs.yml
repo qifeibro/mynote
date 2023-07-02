@@ -1,4 +1,6 @@
 site_name: Note
+site_wide_excludes:
+- footer
 theme:
   name: material
   features:
