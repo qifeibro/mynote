@@ -9,7 +9,7 @@
 
 [DeepSeek](https://www.deepseek.com)
 
-[ChatGPT](chat.openai.com)
+[ChatGPT](https://chat.openai.com)
 
 [Gemini](https://gemini.google.com)
 
